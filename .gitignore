@@ -1,0 +1,4 @@
+build/
+*.vcd
+sw/program.hex
+riscv-tests/
