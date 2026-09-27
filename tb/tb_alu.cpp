@@ -23,7 +23,6 @@ int main(int argc, char** argv) {
 
     test("ADD",  10, 3, 0, 13);
     test("SUB",  10, 3, 1, 7);
-    // ... à toi de compléter
 
     delete dut;
     return 0;
